@@ -24,6 +24,7 @@ Third and last, I'll be more specific and I'll put the `concepts` that are more 
 - Reducers
 - Actions
 - Action creators
+- Selectors
 
 ## :bookmark: License
 
