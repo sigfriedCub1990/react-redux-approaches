@@ -1,0 +1,10 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+}
+
+.counter__value {
+  text-align: center;
+  color: navy;
+  font-size: 4rem;
+}
